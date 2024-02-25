@@ -4,7 +4,7 @@ import React from 'react'
 export default function App() {
   return (
     <View>
-      <Text>Hallo Nara cantik</Text>
+      <Text className="text-customred">Hallo Nara baik hati</Text>
     </View>
   )
 }
